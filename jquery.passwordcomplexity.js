@@ -108,7 +108,7 @@ $(function(){
 		},
 
 		secureClassNames :[{
-			name: "very-weak",
+				name: "very-weak",
                 text: "very weak"
             }, {
                 name: "weak",
